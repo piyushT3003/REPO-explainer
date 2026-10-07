@@ -1,0 +1,7 @@
+streamlit
+gitpython
+requests
+fastapi
+uvicorn
+pydantic
+huggingface_hub
